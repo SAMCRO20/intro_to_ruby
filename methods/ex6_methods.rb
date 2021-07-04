@@ -1,0 +1,1 @@
+# Looks like invoking a method 'calculate_product' but only giving one of the expected two arguments

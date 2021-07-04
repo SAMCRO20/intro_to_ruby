@@ -1,0 +1,1 @@
+# When we call scream, it would redefine words and then return on line 3, leaving the puts words effectively inert. So it wouldn't print anything.
