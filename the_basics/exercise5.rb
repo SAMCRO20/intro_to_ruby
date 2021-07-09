@@ -2,10 +2,10 @@
 
 n = 5 * 4 * 3 * 2 * 1 # 5!
 m = 6 * n # 6!
-p = 7 * m # 7!
-q = 8 * p # 8!
+o = 7 * m # 7!
+q = 8 * o # 8!
 
 puts n
 puts m
-puts p
+puts o
 puts q 
